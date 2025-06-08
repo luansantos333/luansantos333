@@ -1,4 +1,4 @@
-# Olá, eu sou Luan Gomes dos Santos! 👋
+# Olá, eu sou Luan! 👋
 
 Atualmente trabalho no setor de NOC de um provedor de internet, atuando com redes de computadores, servidores e suporte técnico. Sou apaixonado por tecnologia e busco sempre aprimorar meus conhecimentos em diversas áreas da TI.
 
